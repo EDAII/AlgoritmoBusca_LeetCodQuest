@@ -22,7 +22,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-|       |  | Difícil     |
+|  668     | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) | Difícil     |
 |       |                   | Difícil     |
 |      |         | Média       |
 
@@ -30,9 +30,15 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 ## Screenshots
 
+Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
+
+Questão 668 - Kth Smallest Number in Multiplication Table
+
+![Questão 668 - Kth Smallest Number in Multiplication Table](AlgoritmosBusca/Questao_668/LC668.png)
+
 ## Instalação
 
-**Linguagem**: <br>
+**Linguagem**: Python <br>
 
 <!-- Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários -->
 
@@ -46,7 +52,7 @@ A seguir, é explicado como qualquer pessoa pode copiar e testar os códigos pre
   Para acessar a questão no LeetCode, vá para o site por qualquer um dos links na tabela Sobre. Para executar os testes de caso e identificar se a solução foi aceita, será necessário se cadastrar ou fazer login.
 
 - _Copie o código do repositório_:
-  Acesse a pasta deste repositório, clique no número do exercício e copie o código referente à questão desejada.
+  Acesse a pasta deste repositório chamada AlgoritmoBusca, clique no número do exercício e copie o código referente à questão desejada.
 
 - _Cole o código no editor do LeetCode_:
   No ambiente da questão, selecione a linguagem correta do código que foi utilizado para resolver a questão(por exemplo, Python ou C) e cole o código no editor online.
