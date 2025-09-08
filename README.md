@@ -23,8 +23,8 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
 |  668     | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) | Difícil     |
-|       |                   | Difícil     |
-|      |         | Média       |
+|   1293    |   [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)                | Difícil     |
+|  1553    |    [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)     | Difícil       |
 
 ### Link para o vídeo de apresentação
 
@@ -35,6 +35,14 @@ Segue abaixo Screenshots demonstrando que as soluções para os respectivos prob
 Questão 668 - Kth Smallest Number in Multiplication Table
 
 ![Questão 668 - Kth Smallest Number in Multiplication Table](AlgoritmosBusca/Questao_668/LC668.png)
+
+Questão 1293 - Shortest Path in a Grid with Obstacles Elimination
+
+![Questão 1293 - Shortest Path in a Grid with Obstacles Elimination]()
+
+Questão 1553 - Minimum Number of Days to Eat N Oranges
+
+![Questão 1553 - Minimum Number of Days to Eat N Oranges]()
 
 ## Instalação
 
