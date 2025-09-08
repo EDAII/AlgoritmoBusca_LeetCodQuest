@@ -18,7 +18,7 @@ Para este trabalho de Algoritmos de Busca, opitamos por utilizar um juiz eletrô
 
 ### Exercícios escolhidos
 
-Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns exercícios sobre os conteúdos acerca de Algoritmos de Busca. Foram definidas 3 questões a serem resolvidas, sendo uma delas de nível médio e duas de nível difícil. Abaixo podemos identificar as questões que foram resolvidas dentro do juiz eletrônico LeetCode:
+Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns exercícios sobre os conteúdos acerca de Algoritmos de Busca. Foram definidas 3 questões a serem resolvidas, sendo três delas de nível difícil. Abaixo podemos identificar as questões que foram resolvidas dentro do juiz eletrônico LeetCode:
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
