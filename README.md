@@ -38,11 +38,11 @@ Questão 668 - Kth Smallest Number in Multiplication Table
 
 Questão 1293 - Shortest Path in a Grid with Obstacles Elimination
 
-![Questão 1293 - Shortest Path in a Grid with Obstacles Elimination]()
+![Questão 1293 - Shortest Path in a Grid with Obstacles Elimination](AlgoritmosBusca/Questao_1293/LC1293.png)
 
 Questão 1553 - Minimum Number of Days to Eat N Oranges
 
-![Questão 1553 - Minimum Number of Days to Eat N Oranges]()
+![Questão 1553 - Minimum Number of Days to Eat N Oranges](AlgoritmosBusca/Questao_1553/LC1553.png)
 
 ## Instalação
 
